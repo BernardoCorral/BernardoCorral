@@ -1,5 +1,9 @@
 # Bernardo Corral
 
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%">
+</p>
+
 🎓 Estudante de Ciência da Computação (Atitus Educação)  
 📊 Data Science Enthusiast — Python · SQL · Estatística · Machine Learning  
 🤖 Otimizando processos com IA e análise de dados  
