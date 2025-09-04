@@ -45,8 +45,8 @@ Busco sempre aprender de forma prática, construindo projetos que consolidem meu
 
 ## 🚀 Projetos em Destaque  
 
-- **EDA Vendas** → Análise exploratória de um dataset de vendas, identificando padrões de consumo e tendências.  
-- **Automação em Python** → Script para organizar arquivos por extensão, focado em produtividade e boas práticas de código.  
+- **EDA Airbnb** → Análise exploratória de dados de anúncios de imóveis utilizando **Pandas, NumPy, Matplotlib e Seaborn**. Inclui limpeza e tratamento de dados, estatísticas descritivas e visualizações gráficas para identificar padrões de preços, distribuição geográfica e fatores que influenciam o valor das hospedagens.
+   
 - **Git Workflow** → Fluxo de versionamento aplicando branches, merges e rebases em um cenário colaborativo.  
 
 ---
